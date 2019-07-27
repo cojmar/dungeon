@@ -12,7 +12,10 @@ define(['phaser', './dungeon', 'dat.gui'], function(Phaser, Dungeon, dat) {
             preload: preload,
             create: create,
             update: update
-        }
+        },
+        scale: {
+            mode: Phaser.Scale.RESIZE
+        },
     };
 
     var game = new Phaser.Game(config);
