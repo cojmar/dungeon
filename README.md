@@ -1,4 +1,4 @@
-# Info
+### Info
 ##### Dungeon gnerator
-# URL
+### URL
 ##### https://cojmar.github.io/dungeon/
